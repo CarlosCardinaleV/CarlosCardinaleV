@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning machine learning basics.
 - 💞️ I’m looking to collaborate on computer vision and other projects in that area.
 - 📫 My email is carlos.cardinale@ucr.ac.cr
-- My twitter is https://twitter.com/CardinaleCarlos 
 
 <!---
 CarlosCardinaleV/CarlosCardinaleV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
