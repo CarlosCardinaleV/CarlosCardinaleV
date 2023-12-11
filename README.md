@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos Cardinale!
 
-Welcome to my GitHub profile! I hold a Bachelor of Science in Physics and am currently pursuing a Master of Science in Computer Science at the University of Costa Rica. My academic journey has led me to explore the multifaceted world of technology, where I've developed a deep interest in Artificial Intelligence (AI), Data Analysis, and Data Engineering.
+Welcome to my GitHub profile! I hold a Bachelor of Science in Physics and am currently pursuing a Master of Science in Computer Science at the University of Costa Rica. My academic journey has led me to explore the multifaceted world of technology, where I've developed a deep interest in Data Analysis, Data Engineering, and Artificial Intelligence (AI).
 
 I am passionate about harnessing the power of data to uncover insights and drive innovation. With a strong foundation in physics and computer science, I am particularly fascinated by the intersection of machine learning, data analytics, and data infrastructure.
 
