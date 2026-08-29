@@ -1,22 +1,33 @@
 # Hi there, I'm Carlos Cardinale!
 
-Welcome to my GitHub profile! I hold a Bachelor of Science in Physics and am currently pursuing a Master of Science in Computer Science at the University of Costa Rica. My academic journey has led me to explore the multifaceted world of technology, where I've developed a deep interest in Data Analysis, Data Engineering, and Artificial Intelligence (AI).
+I'm a physicist, currently pursuing an M.Sc. in Computer Science at the **University of Costa Rica**, building on a B.Sc. in Physics. I'm drawn to the space where **data analysis, data engineering, and machine learning** meet — turning raw data into infrastructure and insight.
 
-I am passionate about harnessing the power of data to uncover insights and drive innovation. With a strong foundation in physics and computer science, I am particularly fascinated by the intersection of machine learning, data analytics, and data infrastructure.
+- Currently learning: distributed systems & data engineering
+- Ask me about: Physics-to-CS transitions, data pipelines, ML fundamentals
+- Reach me: see badges below
 
-## Connect with me:
+## Skills & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosCardinaleV&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCardinaleV&layout=compact" />
+</p>
+
+## 🔗 Connect with me
 
 <p align="center">
   <a href="https://twitter.com/CardinaleCarlos"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/carlos-cardinale-25b2961b4/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:carlos.leo.cardinale@gmail.com?subject=Came%20from%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-## Explore my Repositories
-
-<!--- Add a brief description of your key repositories or projects here, highlighting your skills and interests. --->
-
-<!---
-CarlosCardinaleV/CarlosCardinaleV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
