@@ -20,8 +20,8 @@ I'm a physicist, currently pursuing an M.Sc. in Computer Science at the **Univer
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CarlosCardinaleV&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCardinaleV&layout=compact" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CarlosCardinaleV&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CarlosCardinaleV&layout=compact" />
 </p>
 
 ## 🔗 Connect with me
