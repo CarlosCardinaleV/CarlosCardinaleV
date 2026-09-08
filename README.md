@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos Cardinale!
+# I'm Carlos Cardinale!
 
 I'm a physicist, currently pursuing an M.Sc. in Computer Science at the **University of Costa Rica**, building on a B.Sc. in Physics. I'm drawn to the space where **data analysis, data engineering, and machine learning** meet — turning raw data into infrastructure and insight.
 
