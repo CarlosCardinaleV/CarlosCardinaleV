@@ -1,9 +1,8 @@
 # About me
 
-I'm a physicist, currently pursuing an M.Sc. in Computer Science at the **University of Costa Rica**, building on a B.Sc. in Physics. I'm drawn to the space where **data analysis, data engineering, and machine learning** meet — turning raw data into infrastructure and insight.
+Aspiring Data Engineer | SQL • Python • ETL / Data Pipelines | Risk Mining & Fraud Analytics Background
 
 - Currently learning: distributed systems & data engineering
-- Ask me about: Physics-to-CS transitions, data pipelines, ML fundamentals
 - Reach me: see badges below
 
 ## Skills & Tools
